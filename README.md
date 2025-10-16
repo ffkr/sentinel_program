@@ -116,6 +116,4 @@ Issues and PRs welcome:
 
 ---
 
-## License
-
-MIT — do what you want, no warranties.
+-- hehe FUKURO 
